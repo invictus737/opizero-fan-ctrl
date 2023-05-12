@@ -5,14 +5,12 @@ Should work with any OrangePI.
 
 [WiringOP](https://github.com/orangepi-xunlong/wiringOP.git) was used to access GPIO of Orange pi zero.
 
-
 ### Installation process
 ```bash
 git clone https://github.com/invictus737/opizero-fan-ctrl.git
 cd opizero-fan-ctrl
 sudo sh install.sh
 ```
-
 ### Components
 * [Cooler](https://www.tme.eu/ro/details/ha40101v4-a99-a/ventilatoare-dc-12v/sunon/ha40101v4-1000u-a99)
 * Transistor npn
