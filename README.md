@@ -27,10 +27,9 @@ sudo sh install.sh
 | GPIO 2        | Transistor Base (B)       | 
 | GND           | Transistor Emitter (E)    |
 
-![schematic](https://github.com/Sabbaken/cooler-controller-orangePI/blob/master/img/schematica.png?raw=true)
+![schematic](https://github.com/invictus737/opizero-fan-ctrl/blob/master/img/schematica.png?raw=true)
 
-
-![pinout](https://github.com/Sabbaken/cooler-controller-orangePI/blob/master/img/1033818249.jpg?raw=true)
+![pinout](https://github.com/invictus737/opizero-fan-ctrl/blob/master/img/1033818249.jpg?raw=true)
 
 
 
