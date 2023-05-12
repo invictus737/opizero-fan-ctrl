@@ -1,5 +1,5 @@
 
-## Cooler controller for OrangePI
+## Fan controller for OrangePI
 This script measures temperature of cpu and turns on/off cooler if necessary.
 Should work with any OrangePI.
 
