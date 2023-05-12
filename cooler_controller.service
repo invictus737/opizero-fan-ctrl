@@ -1,5 +1,5 @@
 [Unit]
-Description=Fan controll scrypt.
+Description=Fan controll script.
 After=multi-user.target
 
 [Service]
