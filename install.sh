@@ -27,7 +27,7 @@ sudo systemctl enable cooler_controller.service
 
 #Delete files
 cd ..
-rm -R cooler-controller-orangePI/
+rm -R opizero-fan-ctrl/
 
 #Enable service
 sudo systemctl enable cooler_controller.service
