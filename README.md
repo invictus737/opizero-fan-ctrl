@@ -14,10 +14,9 @@ sudo sh install.sh
 ```
 
 ### Components
-* [Cooler]([http://ali.pub/4f1j47](https://www.tme.eu/ro/details/ha40101v4-a99-a/ventilatoare-dc-12v/sunon/ha40101v4-1000u-a99/))
+* [Cooler](https://www.tme.eu/ro/details/ha40101v4-a99-a/ventilatoare-dc-12v/sunon/ha40101v4-1000u-a99)
 * Transistor npn
 * Some wires
-* [Prototype PCB](http://ali.pub/4f1npv)
 
 ### Wiring
 |               |                           |
