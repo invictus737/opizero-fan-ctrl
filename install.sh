@@ -1,11 +1,11 @@
 #Installing dependency
 git clone https://github.com/orangepi-xunlong/wiringOP.git
-cd WiringOP
+cd wiringOP
 chmod +x ./build
 sudo ./build clean
 sudo ./build
 cd ..
-rm -R WiringOP
+rm -R wiringOP
 
 #Move everything to my_scrypts folder
 mkdir -p $HOME/my_scripts/
