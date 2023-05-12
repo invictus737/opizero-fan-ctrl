@@ -1,7 +1,3 @@
-### Read this in other languages 🌎
-
-- [![ru](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Russia.png) **Русский**](https://github.com/Sabbaken/cooler-controller-orangePI/blob/master/readme/README_RU.md)
-- [![us](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-States.png) **English**](https://github.com/Sabbaken/cooler-controller-orangePI/blob/master/README.md)
 
 ## Cooler controller for OrangePI
 This script measures temperature of cpu and turns on/off cooler if necessary.
@@ -11,11 +7,9 @@ Should work with any OrangePI.
 
 
 ### Installation process
-Enter password if needed
-
 ```bash
-git clone https://github.com/Sabbaken/cooler-controller-orangePI.git
-cd cooler-controller-orangePI
+git clone [https://github.com/Sabbaken/cooler-controller-orangePI.git](https://github.com/invictus737/opizero-fan-ctrl)
+cd opizero-fan-ctrl
 sudo sh install.sh
 ```
 
@@ -30,7 +24,7 @@ sudo sh install.sh
 | ------------- |:-------------------------:|
 | Fan 5V        | OrangePI 5V               |
 | Fan GND       | Transistor Collector (C)  |
-| GPIO 7        | Transistor Base (B)       | 
+| GPIO 2        | Transistor Base (B)       | 
 | GND           | Transistor Emitter (E)    |
 
 ![schematic](https://github.com/Sabbaken/cooler-controller-orangePI/blob/master/img/schematica.png?raw=true)
@@ -39,5 +33,4 @@ sudo sh install.sh
 ![pinout](https://github.com/Sabbaken/cooler-controller-orangePI/blob/master/img/1033818249.jpg?raw=true)
 
 
-![pinout_table](https://github.com/Sabbaken/cooler-controller-orangePI/blob/master/img/gpio.jpg?raw=true)
 
