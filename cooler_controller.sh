@@ -13,7 +13,7 @@ if [ $temperature -gt 55000 ]; then
 fi;
 
 # Lower edge
-if [ $temperature -lt 50000 ]; then
+if [ $temperature -lt 45000 ]; then
   echo "Fan OFF"
   gpio write 2 0
 fi
